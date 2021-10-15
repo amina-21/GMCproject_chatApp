@@ -8,3 +8,7 @@ you will access the app only if the admin adds you to a chat room or send you th
 
 it is meant to be for internal use
 
+you can try out to login as Sam for example:
+username : sam 
+password : 123456
+
