@@ -12,3 +12,5 @@ you can try out to login as Sam for example:
 username : sam 
 password : 123456
 
+as an admin you can add users to chat rooms and add new chat rooms
+
