@@ -14,3 +14,9 @@ password : 123456
 
 as an admin you can add users to chat rooms and add new chat rooms
 
+admin ex:
+
+username : amina-21  
+password : canwestop?21
+
+
